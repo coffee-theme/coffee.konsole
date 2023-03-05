@@ -1,6 +1,6 @@
 # coffee theme for konsole
 
-> a simply warm theme for kde terminal known as console
+> a simply warm theme for kde terminal known as konsole
 
 ## credits
 
